@@ -11,7 +11,7 @@ let correctAnswer = "Sally Ride";
 let candidateAnswer = "";
 
 
-//TODO: Variables for Part 2
+// TODO: Variables for Part 2 //
 let questions;
 let correctAnswers;
 let candidateAnswers;
